@@ -80,6 +80,3 @@ Malware that locks files or systems and demands payment to restore access.
 
 Cybersecurity is essential in today's digital world. Ethical hackers help organizations identify vulnerabilities before cybercriminals can exploit them. Understanding the CIA Triad, hacker types, and common cyber threats is the foundation of cybersecurity.
 
-## Author
-Name: Mani Bharathi
-Course: B.Tech CSBS
